@@ -1,1 +1,1 @@
-This is my HTML5 boilerplate. I use it to build fast, robust, and adaptable web apps or sites.
+Hello I am Dhooge Tanguy, This is my boilerplate for HTML5 so i can work faster and better.
